@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<produtos>
+    <produto id="1">
+        <nome>chocolate</nome>
+        <categoria>doces</categoria>
+        <marca>
+            <marcaNome>nestlé</marcaNome>
+            <preco>6</preco>
+        </marca>
+    </produto>
+</produtos>
